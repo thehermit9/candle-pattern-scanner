@@ -1,4 +1,7 @@
- Candle Pattern Signal Tool (Python)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+
+Free Candle Pattern Signal Tool (Python)
 This lightweight Python tool scans any OHLCV data (CSV format) and flags key candlestick patterns:
 
 Doji
