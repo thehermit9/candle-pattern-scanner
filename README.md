@@ -40,4 +40,7 @@ time, open, high, low, close, volume
 👉 Get the full bundle on Gumroad (Free): https://luke33.gumroad.com/l/candletool
 Includes sample data, signal generator, plotting script, config file, and output examples.
 
+License
+MIT License — use, modify, and redistribute freely.
+
 This version is free — leave a tip if you find it helpful.
