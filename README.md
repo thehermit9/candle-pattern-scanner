@@ -44,3 +44,8 @@ License
 MIT License — use, modify, and redistribute freely.
 
 This version is free — leave a tip if you find it helpful.
+
+
+
+
+Keywords: candle pattern detection, python trading bot, OHLCV analysis, doji scanner, engulfing pattern, backtest signals, quant tools, crypto python script
